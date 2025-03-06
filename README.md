@@ -15,5 +15,5 @@ A simple PyQt6 app that displays the currently playing song on Spotify, along wi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/spotify-now-playing-app.git
+git clone [https://github.com/username/spotify-now-playing-app.git](https://github.com/KiraSovrin/WIPN.git)
 cd spotify-now-playing-app
